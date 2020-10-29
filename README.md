@@ -5,4 +5,7 @@
 This repo contains code that will be used in the demos.
 Please fork this repository so you can work alongside us :)</p>
 
-# Documentation
+## Prerequisites
+
+<p>What you need to prepare before the demo:</p>
+- Make sure you have access to your firebase console through your email https://console.firebase.google.com/u/0/
