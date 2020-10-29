@@ -1,6 +1,8 @@
-# BCHacks-starter-code
-Starter code for BC Hacks Lite Github Workshop presented by UBC DSC.
+# BC Hacks Lite 2020 Github Workshop
+## Presented by Developers Student Club UBC
 
-A super simple webapp that fetches random programming jokes from https://sv443.net/jokeapi/v2/.
+Welcome to our github workshop!
+This repo contains code that will be used in the demos.
+Please fork this repository so you can work alongside us :)
 
-For demoing automation deployment with github actions and firebase.
+# Documentation
